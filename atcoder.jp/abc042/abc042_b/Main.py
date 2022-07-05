@@ -1,0 +1,1 @@
+print("".join(sorted(open(0).read().split()[2:])))
